@@ -1,0 +1,7 @@
+.env
+# search leftovers
+jobs/*/reference/candidates/
+# supplier product photos are private modelling reference only — never publish
+jobs/*/reference/B*
+node_modules/
+docs/index.html
